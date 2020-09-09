@@ -3,5 +3,6 @@ import assert
 def array_ops(a,b,op):
     if (op==0):
         x = a + b
-    elif (op==1)
+    elif (op==1):
+        
     
